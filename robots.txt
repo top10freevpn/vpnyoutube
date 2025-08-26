@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://top10freevpn.github.io/vpnyoutube/sitemap.xml
