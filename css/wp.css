@@ -1,0 +1,87 @@
+.wp-block-heading {
+  text-align: left;
+  margin: 45px 0 30px;
+}
+
+.wp-block-image {
+  margin: 100px 0 50px;
+  max-height: 400px;
+}
+
+.wp-block-image img {
+  margin-top: 12px;
+  max-height: 400px;
+}
+
+.wp-block-post-title {
+  max-width: 900px;
+  text-align: left;
+  margin: 80px 0 50px;
+  font-size: 47px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 110%;
+  margin-bottom: 16px;
+}
+
+h2.wp-block-heading {
+  text-align: left;
+  line-height: 1.3;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+h3.wp-block-heading {
+  text-align: left;
+  line-height: 1.3;
+  font-size: 24px;
+  font-weight: 600 !important;
+  margin-bottom: 12px;
+}
+
+.wp-block-post-content {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  margin-bottom: 24px;
+}
+
+.wp-block-list {
+  padding-left: 20px;
+}
+
+.wp-block-list li {
+  display: flex;
+  align-items: center;
+  list-style: disc;
+}
+
+.wp-block-post-featured-image {
+  max-height: 400px;
+}
+
+.wp-block-post-featured-image img {
+  margin-top: 16px;
+  max-height: 90%;
+}
+
+.emoji {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.header__brand a {
+  display: flex;
+  align-items: center;
+}
+
+.header__brand a span {
+  margin-left: 10px;
+  color: #2C2C35;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 120%;
+}
